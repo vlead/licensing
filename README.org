@@ -2,4 +2,4 @@
 
   Licensing at Virtual Labs
 
-  Details at [[./index.org]]
+  Details at [[./src/index.org]]
