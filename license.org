@@ -1,0 +1,3 @@
+The following licenses apply.
+
+[[./index.org][License]]
