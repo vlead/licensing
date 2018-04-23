@@ -1,0 +1,5 @@
+* Licensing
+
+  Licensing at Virtual Labs
+
+  Details at [[./index.org]]
