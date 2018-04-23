@@ -64,7 +64,7 @@
 * Software Licensing
   Virtual Labs software - experiments, platform and
   services - is licensed under =[[https://www.gnu.org/licenses/agpl-3.0.en.html][GNU AFFERO GENERAL PUBLIC
-  LICENSE, Version 3(AGPL-3.0))]]=
+  LICENSE, Version 3(AGPL-3.0)) ]]=
 
 ** License Content
    GNU AFFERO GENERAL PUBLIC LICENSE
@@ -136,10 +136,11 @@
    The precise terms and conditions for copying,
    distribution and modification follow.
 
-   TERMS AND CONDITIONS
+
+   *TERMS AND CONDITIONS*
 
 
-   0. Definitions.
+***0. Definitions.
 
    "This License" refers to version 3 of the GNU Affero
    General Public License.
@@ -186,7 +187,7 @@
    commands or options, such as a menu, a prominent item in
    the list meets this criterion.
 
-   1. Source Code.
+***1. Source Code.
 
    The "source code" for a work means the preferred form of
    the work for making modifications to it. "Object code"
