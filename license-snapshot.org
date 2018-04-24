@@ -1,0 +1,22 @@
+#+TITLE: Snapshot of Virtual Labs Licensing
+#+AUTHOR: VLEAD
+#+DATE: [2018-04-11 Wed]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b) lu tsk txt sup
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil' prop:t
+
+* Introduction
+  This document has the snapshot of =virtual-labs= and =vlead=
+  organization repositories licensing details.
+* Snapshot
+  
+|------------------+------------------+--------------|
+| Type of Resource | License Name     | No. of Repos |
+|------------------+------------------+--------------|
+| Content          | [[https://creativecommons.org/licenses/by-nc-sa/4.0/][CC BY-NC-SA 4.0]]. |          286 |
+|------------------+------------------+--------------|
+| Sources          | [[https://www.gnu.org/licenses/agpl-3.0.en.html][AGPL-3.0]]         |          286 |
+|------------------+------------------+--------------|
+
+
